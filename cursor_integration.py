@@ -1,5 +1,4 @@
-# 3. cursor_integration.py - Cursor IDE Integration
-cat > ~/ai-config/cursor_integration.py << 'EOF'
+
 #!/usr/bin/env python3
 """
 Cursor IDE Integration
